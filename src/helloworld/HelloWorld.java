@@ -15,8 +15,10 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here  <<  si smaž
         System.out.println("Hello World!");
+        
+        System.out.println("Chyba!");
     }
     
 }
